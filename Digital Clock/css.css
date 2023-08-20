@@ -1,0 +1,54 @@
+body{
+    background-color:gainsboro;
+}
+.clock{
+    position: absolute;
+    color:white;
+    top:39%;
+    left:22%;
+    transform: translateX(-50%) translateY(-50%);
+    font-size: 60px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 7px;
+    border: 3px solid rgb(15, 15, 15);
+    width: 450px;
+    padding-left: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+   
+    
+}
+h5{
+    background-color:rgb(124, 120, 120);
+}
+.clk1{
+    margin-left: 190px;
+    margin-top: 2px;
+    top: 10%;
+    padding-bottom: 10px;
+}
+.q1{
+   margin-top: -170px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:40px;
+   
+}
+.q2{
+    margin-left: 600px;
+  font-size: xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 2px solid black;
+  margin-right: 45px;
+  padding-left: 200px;
+  padding-right: 350px;
+  padding-top: 250px;
+  padding-bottom: 300px;
+  margin-top: -180px;
+  
+  background-image: url('mo1.jpg'); /* Replace with your image path */
+    background-size: cover; /* Adjust as needed */
+    background-position: center;
+}
+
